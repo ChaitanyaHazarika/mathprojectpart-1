@@ -1,0 +1,12 @@
+body{
+    background-color: hotpink;
+}
+.login_div1 , .login_div2{
+    background-color: white;
+    float: none;
+    border-radius: 15px;
+    padding: 15px;
+}
+#player1_name{
+    display: inline-block;    
+}
